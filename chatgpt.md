@@ -1,7 +1,7 @@
 # chatgpt
 chatgpt使用文献
 
-https://guthib.com/f/awesome-chatgpt-prompts
+https://github.com/f/awesome-chatgpt-prompts
 
 GPT学习资料
 https://gpt.candobear.com/
